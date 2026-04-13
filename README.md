@@ -69,11 +69,13 @@
 
 ---
 
-## 📈 Coding Activity
+## � Language Breakdown
 
 <div align="center">
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ro4dy5alifa&theme=dracula&hide_border=true)](https://github.com/Ro4dy5alifa)
+![Top Languages](https://ghchart.ryanke.dev/Ro4dy5alifa)
+
+*Languages used across your GitHub repositories - updated automatically*
 
 </div>
 
