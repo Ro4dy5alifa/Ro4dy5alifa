@@ -5,17 +5,17 @@
 - 👯 I'm looking to collaborate on big projects with web and mobile apps
 
 ---
-## 📊 GitHub Statistics
+## 📊 GitHub Overview
 
 <div align="center">
 
-**My GitHub Activity**
-- 💾 Building amazing projects with code
-- 🚀 Contributing to open-source community
-- 📈 Growing as a full-stack developer
-- 🎯 Focused on quality and innovation
+[![GitHub followers](https://img.shields.io/github/followers/Ro4dy5alifa?style=social)](https://github.com/Ro4dy5alifa)
+[![GitHub User's stars](https://img.shields.io/github/stars/Ro4dy5alifa?style=social)](https://github.com/Ro4dy5alifa)
 
-[Visit my GitHub Profile](https://github.com/Ro4dy5alifa) to see all my repositories and contributions!
+**My GitHub Stats:**
+- 🗂️ Check out my repositories on [GitHub](https://github.com/Ro4dy5alifa)
+- 📝 I'm passionate about backend development, mobile apps, and creative coding
+- 🤝 Always open to collaborating on exciting projects
 
 </div>
 
@@ -57,6 +57,8 @@
 
 <div align="center">
 
+**Languages I Master:**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -67,15 +69,13 @@
 
 ---
 
-## ✍️ Random Dev Quote
+## 📚 Check Out My Work
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
----
+🔗 [Visit My GitHub Profile](https://github.com/Ro4dy5alifa) to explore all my repositories and projects!
 
-## 🏆 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=Ro4dy5alifa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
