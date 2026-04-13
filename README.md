@@ -69,18 +69,20 @@
 
 ---
 
-## 📚 Check Out My Work
+## 📈 Coding Activity
 
 <div align="center">
 
-🔗 [Visit My GitHub Profile](https://github.com/Ro4dy5alifa) to explore all my repositories and projects!
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ro4dy5alifa&theme=dracula&hide_border=true)](https://github.com/Ro4dy5alifa)
 
 </div>
 
 ---
 
+## 📚 Check Out My Work
+
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Ro4dy5alifa&icon=0&color=0)](https://visitcount.itsvg.in)
+🔗 [Visit My GitHub Profile](https://github.com/Ro4dy5alifa) to explore all my repositories and projects!
 
 </div>
